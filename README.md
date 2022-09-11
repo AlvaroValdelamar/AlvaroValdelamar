@@ -3,7 +3,7 @@
 -  I use python libraries to develop projects in ML focused on data science.
 - 🌱 I’m currently learning the development of deep learning models
 - 💞️ I’m looking to collaborate on the deployment of data science models.
-- 📫 How to reach me ...
+- 📫 You can reach me through my professional LinkedIn https://www.linkedin.com/in/alvaro-valdelamar/
 
 <!---
 AlvaroValdelamar/AlvaroValdelamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
